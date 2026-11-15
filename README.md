@@ -1,13 +1,6 @@
-
 # E-Commerce Sales Analyzer
 
 Python 3 console application built with Pandas and Matplotlib for Rungta International Skills University to analyze, clean, and visualize e-commerce order data[cite: 1, 2].
-
-# ecommerce-sales-analyzer
-Python 3 console application built with Pandas and Matplotlib for Rungta International Skills University to analyze, clean, and visualize e-commerce order data.
-
-
-
 
 ## Overview
 The **E-Commerce Sales Analyzer** is a Python 3 console application developed for Rungta International Skills University (RISU)[cite: 1, 2]. It reads order data from a CSV file, cleans corrupted or invalid records using Pandas, computes key sales metrics and aggregations, and visualizes category-wise revenue distribution using Matplotlib[cite: 1].
@@ -31,8 +24,4 @@ The **E-Commerce Sales Analyzer** is a Python 3 console application developed fo
 ## How to Run
 1. Ensure Python 3 and the required libraries are installed:
    ```bash
-<<<<<<< HEAD
    pip install pandas matplotlib
-=======
-   pip install pandas matplotlib
->>>>>>> 851d63a25515289f5c8c80daec45c4b60f16f788
